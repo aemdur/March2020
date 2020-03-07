@@ -9,6 +9,8 @@ My repository includes:
   - An Excel Spreadsheet of global COVID-19 cases updated on 3/5/2020 from John Hopkins University, pulled via R code composed by Rami Krispin.
   https://github.com/RamiKrispin/coronavirus
   
+  - A jpeg chart of Percent of US Voting Age Voter Turnout since 1932 created in Excel with Wikipedia data. 
+  
   - some samples of SQL and R code written and annotated towards the completion of my BI Certificate at UCSD Extension.
   
   
