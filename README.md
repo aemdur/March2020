@@ -13,7 +13,6 @@ My repository includes:
   
   - A searchable spreadsheet of US Asset Brokers created via pull request from SEC EDGAR website with embedded VBA to remove blank rows from Excel spreadsheets.
   
-  - some samples of SQL and R code written and annotated towards the completion of my BI Certificate at UCSD Extension.
   
   
   
